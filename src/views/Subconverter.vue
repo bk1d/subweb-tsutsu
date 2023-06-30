@@ -414,6 +414,16 @@ export default {
                   "https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/special/basic.ini"
               }
             ]
+          },
+          {
+            label: "自用",
+            options: [
+              {
+                label: "Hohoho",
+                value:
+                  "https://cdn.jsdelivr.net/gh/bk1d/oc_config@main/oc_config.yaml"
+              }
+            ]
           }
         ]
       },
